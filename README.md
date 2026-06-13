@@ -74,7 +74,7 @@ npm run dev
 ```
 
 ### 4. Open the App
-Visit [http://localhost:3000](http://localhost:3000) in your browser. Enter your name, click "Create & Go", and start drawing!
+Visit [[live_Board](https://liveboard-livid.vercel.app/) in your browser. Enter your name, click "Create & Go", and start drawing!
 
 ## Deployment 🌐
 
